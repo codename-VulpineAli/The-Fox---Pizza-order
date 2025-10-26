@@ -1,18 +1,6 @@
-/* normalization */
+
 *{ 
-    padding: 0px;
-    margin: 0;
-    box-sizing: border-box;
+    padding: 2px;
+    margin: 10;
+    box-sizing: border-box; 
 }
-body{
-    background-image: url(https://media.craiyon.com/2025-04-16/zUq5r9pSR2yr_IQf-hOyzQ.webp);
-}
-/* .aaron{
-    font-size: 50px;
-    height: 200px;
-    width: 200px;
-    background-color: rgb(15, 15, 15);
-    margin: 10px;
-    padding: 20px;
-    border: 5px black solid;
-} */
